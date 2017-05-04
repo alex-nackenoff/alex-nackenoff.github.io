@@ -34,7 +34,7 @@ Brewery Intern, Tennessee Brew Works, Nashville TN						    2015
 Research, development, and establishment of a practical laboratory for the detection of aerobic and anaerobic beer-spoiling bacteria and dissolved gasses (oxygen ppm and ppb, and carbon dioxide ppm) in wort, beer, and bottled product. 
 		
 <h2>HONORS AND AWARDS</h2>
-<UL>
+
 	<LI>Eagle Scout, Boy Scouts of America; recipient of bronze, gold and silver palms
 	<LI>Best Abstract/Poster Award, ASPET 2015, Neuropharmacology Division
 	<LI>Honors graduate, Department of Psychology, studying the effects of naltrexone on gambling-like behavior, using an animal model for gambling
@@ -45,7 +45,7 @@ Research, development, and establishment of a practical laboratory for the detec
 
 	
 <h2>PUBLICATIONS:</h2>
-<UL>
+
 	<LI>Nackenoff AG, Simmler LD, Baganz NL, Paffenroth KC, Stanwood GD, Pehrson AL, Sanchez C, Blakely RD. Serotonin Transporter-Independent Actions Of The Antidepressant Vortioxetine As Revealed Using The SERT M172 Mouse. In preparation.
 	<LI>Simmler LD, Levin MH, Gresch PJ, Nackenoff AG, Wang J, Zhang B, Henry LK, Anacker AMJ, Veenstra-Vanderweele J, & Blakely RD. Contributions of Serotonin Signaling to the Acute Actions of Cocaine as Revealed Through Molecular and Behavioral Studies of SERT Met172 Mice. Submitted
 	<LI>Nackenoff AG, Moussa-Tooks, AM, McMeekin, AM, Veenstra-VanderWeele J, & Blakely RD. Essential Contributions of Serotonin Transporter Inhibition to the Acute and Chronic Actions of Fluoxetine and Citalopram in the SERT Met172 Mouse. Neuropsychopharmacology. (2015). In Press. doi: 10.1038/npp.2015.335
@@ -54,7 +54,7 @@ Research, development, and establishment of a practical laboratory for the detec
 
 	
 <h2>ABSTRACTS/POSTERS:</h2>
-<UL>
+
 	<LI>Poster to be presented at ECNP 2016 (September): A.G. Nackenoff, L.D. Simmler, N.L. Baganz, A.L. Pehrson, C. Sanchez, R.D. Blakely. “Serotonin Transporter-Independent Actions of the Antidepressant Vortioxetine Revealed by the SERT Met172 Mouse”
 	<LI>Poster presented at ECNP 2015 (August): A.G. Nackenoff, L.D. Simmler, N.L. Baganz, K.C. Paffenroth, G.D. Stanwood, A.L. Pehrson, C. Sanchez, R.D. Blakely. “Acute Antidepressant Actions of Vortioxetine Do Not Require Serotonin Transporter Interactions”
 	<LI>Invited Oral Presentation at ASPET/EB 2015 (March): Elucidating The Molecular Underpinnings Of Behavior Using Pharmacological Knock-In Mouse Models; Serotonin Transporter-Independent Actions Of The Antidepressant Vortioxetine As Revealed Using The SERT M172 Mouse.
