@@ -3,7 +3,9 @@ layout: page
 title: Curriculum Vitae
 permalink: /CV/
 ---
-
+<!DOCTYPE html>
+<html>
+<body>
 <h2>EDUCATION</h2>
 
 <h3>Undergraduate</h3>
@@ -75,3 +77,5 @@ Society for Neuroscience
 Middle Tennessee Chapter, Society for Neuroscience
 Psi Chi
 
+</body>
+</html>
