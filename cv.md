@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Curriculum Vitae
+layout: cv
+title: CV
 permalink: /cv/
 ---
 
-Coming Soon
+coming Soon
+
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
