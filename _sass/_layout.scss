@@ -14,6 +14,10 @@ img.header-logo {
   width: 120px;
 }
 
+* {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
 .site-title {
     font-size: 26px;
     font-weight: 300;
@@ -27,11 +31,20 @@ img.header-logo {
     &:visited {
         color: $grey-color-dark;
     }
+    @include media-query($on-palm) {
+      font-size: $small-font-size;
+      span {
+        display: block;
+        float: left;
+          }
+
+    }
 }
 
 .site-nav {
     float: right;
     line-height: 56px;
+
 
     .menu-icon {
         display: none;
@@ -48,7 +61,8 @@ img.header-logo {
     }
 
     @include media-query($on-palm) {
-        position: absolute;
+        /*position: absolute;*/
+        float: right;
         top: 9px;
         right: $spacing-unit / 2;
         background-color: $background-color;

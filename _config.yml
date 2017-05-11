@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Alex Nackenoff | Neuropharmacologist at Vanderbilt
+title: <span>Alex Nackenoff | </span><span>Neuropharmacologist at Vanderbilt</span>
 email: anackenoff@gmail.com
 public-key: Public Key
 email2: alex.nackenoff@vanderbilt.edu
@@ -17,106 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alex-nackenoff.github.io" # the base hostname & protocol for your site
 twitter_username: anackenoff
 github_username:  alex-nackenoff
-
 fingerprint: 2BD3 CD93 CB88 47B2 E5C4 E8D9 85BA D36E D672 C2D6
-testkey: -----BEGIN PGP PUBLIC KEY BLOCK-----\n\n
-  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\n
-  =2YR3\n
-  -----END PGP PUBLIC KEY BLOCK-----
-
 
 # Build settings
 markdown: kramdown
