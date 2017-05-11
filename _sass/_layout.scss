@@ -192,6 +192,10 @@ img.header-logo {
  */
 .page-content {
     padding: $spacing-unit 0;
+
+    @include media-query($on-palm) {
+        font-size: $small-font-size;
+    }
 }
 
 .page-heading {
@@ -234,17 +238,26 @@ img.header-logo {
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+    @include media-query($on-palm) {
+        font-size: 30px;
+    }
 }
 
 .post-content {
     margin-bottom: $spacing-unit;
 
+    @include media-query($on-palm) {
+        font-size: $small-font-size;
+        }
     h2 {
         font-size: 32px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
-        }
+            }
+            @include media-query($on-palm) {
+                font-size: $small-font-size;
+                }
     }
 
     h3 {
@@ -253,6 +266,9 @@ img.header-logo {
         @include media-query($on-laptop) {
             font-size: 22px;
         }
+        @include media-query($on-palm) {
+            font-size: $small-font-size;
+            }
     }
 
     h4 {
@@ -261,5 +277,8 @@ img.header-logo {
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+        @include media-query($on-palm) {
+            font-size: $small-font-size;
+            }
     }
 }

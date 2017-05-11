@@ -8,4 +8,4 @@ date:   2017-05-10 23:20:00 +0000
 <br>{{ site.fingerprint }}
 
 
-<object data="/img/publickey.txt" width="100%" height="1600px"> </object>
+<object type="text/html" data="/img/publickey.txt" width="100%" height="1600px"> </object>
