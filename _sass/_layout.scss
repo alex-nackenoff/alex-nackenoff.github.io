@@ -9,6 +9,10 @@
     // Positioning context for the mobile navigation icon
     position: relative;
 }
+.header-logo {
+  float:left;
+  width: 10%;
+}
 
 .site-title {
     font-size: 26px;
@@ -16,7 +20,8 @@
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
+    position: relative;
+    left: $spacing-unit;
 
     &,
     &:visited {
