@@ -32,7 +32,12 @@ img.header-logo {
         color: $grey-color-dark;
     }
     @include media-query($on-palm) {
-      font-size: $small-font-size;
+      #first{
+        font-size: $small-font-size*1.5
+          }
+      #second{
+        font-size: $small-font-size*1.15;
+      }
       span {
         display: block;
         float: left;
@@ -123,7 +128,16 @@ img.header-logo {
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit/2;
+    position: relative;
+    bottom: $spacing-unit/4;
+
+    @include media-query($on-palm) {
+        span {
+        display: block;
+        float: left;
+          }
+        }
 }
 
 /*#hoverkey:hover {
@@ -179,7 +193,7 @@ img.header-logo {
 
 @include media-query($on-palm) {
     .footer-col {
-        float: none;
+        float: left;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
