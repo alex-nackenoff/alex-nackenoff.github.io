@@ -128,9 +128,10 @@ img.header-logo {
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit/2;
+    margin-bottom: 0;
     position: relative;
-    bottom: $spacing-unit/4;
+    bottom: $spacing-unit/2;
+    float: left;
 
     @include media-query($on-palm) {
         span {
@@ -155,6 +156,7 @@ img.header-logo {
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+    float: left;
 }
 
 .footer-col {
@@ -169,8 +171,8 @@ img.header-logo {
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(19% - (#{$spacing-unit} / 2));
+    width:         calc(19% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
