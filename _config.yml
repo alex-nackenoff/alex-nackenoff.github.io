@@ -18,6 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alex-nackenoff.github.io" # the base hostname & protocol for your site
 twitter_username: anackenoff
 github_username:  alex-nackenoff
+linkedin_username: alex-nackenoff
 fingerprint: 2BD3 CD93 CB88 47B2 E5C4 E8D9 85BA D36E D672 C2D6
 
 # Build settings
