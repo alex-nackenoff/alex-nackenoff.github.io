@@ -12,6 +12,9 @@
 img.header-logo {
   float:left;
   width: 120px;
+  position: relative;
+  margin-top: $spacing-unit/2;
+  margin-bottom: $spacing-unit/4;
 }
 
 /** {
