@@ -201,8 +201,20 @@ pre {
         height: 16px;
         vertical-align: middle;
 
+
         path {
             fill: $grey-color;
         }
     }
-}
+  }
+
+.pubmed {
+
+      > svg {
+          display: inline-block;
+          width: 16px;
+          height: 43px;
+
+
+          }
+      }
