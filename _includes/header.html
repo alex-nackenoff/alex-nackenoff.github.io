@@ -1,9 +1,17 @@
 <header class="site-header">
 
   <div class="wrapper">
-    <a href=" {{ site.baseurl }}/"><img class="header-logo" alt="an-img" src="/img/profile-circle.png"></a>
-    <a class="site-title" href="{{ site.baseurl }}/"><span display:none id="first"> Alex Nackenoff | </span><span display:none id="second">Neuropharmacologist at Vanderbilt</span></a>
+    <!--<table class="header-table">
+      <tr>-->
+      <div class="header-col-wrapper">
 
+        <div class="header-col header-col-1">
+          <a href=" {{ site.baseurl }}/"><img class="header-logo" src="/img/profile-circle.png"></a>
+        </div>
+        <div class="header-col header-col-2">
+          <a class="site-title" href="{{ site.baseurl }}/"><span display:none id="first"> Alex Nackenoff | </span><span display:none id="second">Neuropharmacologist at Vanderbilt</span></a>
+        </div>
+        <div class="header-col header-col-3">
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
@@ -20,8 +28,10 @@
           {% endif %}
         {% endfor %}
       </div>
-    </nav>
 
+    </nav>
+    </div>
   </div>
+</div>
 
 </header>
