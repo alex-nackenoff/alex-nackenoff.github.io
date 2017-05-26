@@ -16,7 +16,7 @@ permalink: /table/
 <img class='flickr' src='http://c1.staticflickr.com/9/8585/28515521341_5cdd0bf660.jpg'>
 <img class='flickr' src='http://c1.staticflickr.com/9/8725/27978105143_1a5df0911b.jpg'>
 <img class='flickr' src='http://c1.staticflickr.com/9/8797/28309565240_2c49f14329_b.jpg'>
-<img class='flickr' src='http://c1.staticflickr.com/9/8566/27976872374_d5a1e039bc_b.jpg'>
+<!--<img class='flickr' src='http://c1.staticflickr.com/9/8566/27976872374_d5a1e039bc_b.jpg'>-->
 <img class='flickr' src='http://c1.staticflickr.com/8/7760/28593806995_30259a1b01.jpg'>
 <img class='flickr' src='http://c1.staticflickr.com/9/8795/28561187106_64870ff257.jpg'>
 <img class='flickr' src='http://c1.staticflickr.com/9/8077/27978082723_bf302f11c9.jpg'>
