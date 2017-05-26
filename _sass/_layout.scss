@@ -381,14 +381,25 @@ img.header-logo {
 .project-wrapper{
   width: 100%;
   display: inline-block;
-}
 
+  /*:hover{
+    opacity: 0.5;
+  }*/
+}
+.imgtest{
+
+  :hover{
+    opacity: 0.5;
+  }
+
+}
 .project-img{
   position: relative;
   padding: 1%;
   width: 47%;
   float: left;
   display: inline-block;
+
 
     @include media-query($on-palm) {
       width: 95%;
@@ -400,6 +411,10 @@ img.header-logo {
     left: 8%;
     width: 82%;
     text-align: center;
+    z-index: 2;
+
+
+
     }
 
     span{
@@ -412,6 +427,7 @@ img.header-logo {
       background: rgb(0, 0, 0); /* fallback color */
       background: rgba(0, 0, 0, 0.7);
       padding: 1%;
+
 
       @include media-query($on-palm) {
         font-size: 110%;
@@ -438,6 +454,7 @@ img.header-logo {
       left: 10%;
       width: 80%;
       text-align: center;
+      z-index: 2;
       }
 
       span{

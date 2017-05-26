@@ -2,22 +2,23 @@
 layout: default
 ---
 
-<div class="home">
+<div class="project-wrapper">
 
-  <h1 class="page-heading">Posts</h1>
+  <div class="project-img">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <h2><a href=" {{ site.baseurl }}/table/"><span display:none>Edge-Grain Butcher Block Style</span><span display:none>Walnut Table & Cart </span></a></h2>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+      <div class="imgtest"><a href=" {{ site.baseurl }}/table/"><img src="http://c1.staticflickr.com/9/8171/28966315502_fcc39892c3_b.jpg"></a></div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </div>
+
+  <div class="project-img2">
+    <h2><a href=" {{ site.baseurl }}/March4Science/"><span>March For Science</span></a></h2>
+
+    <div class="imgtest"><a href=" {{ site.baseurl }}/March4Science/"><img src="/img/MarchForScience-real-best.png"></a></div>
+
+  </div>
+
+
 
 </div>
