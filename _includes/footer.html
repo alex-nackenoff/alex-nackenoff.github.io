@@ -33,15 +33,15 @@
 
           {% if site.linkedin_username %}
           <li>
-            {% include icon-linkedin.html username=site.linkedin_username %}
+            {% include icon-linkedin.html %} | {% include icon-pubmed.html %}
           </li>
           {% endif %}
 
-          {% if site.pubmed_username %}
+          <!--{% if site.pubmed_username %}
           <li>
-            {% include icon-pubmed.html username=site.pubmed_username %}
+            {% include icon-pubmed.html %}
           </li>
-          {% endif %}
+          {% endif %}-->
         </ul>
       </div>
 
