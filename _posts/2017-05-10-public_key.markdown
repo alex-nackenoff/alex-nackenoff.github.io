@@ -6,8 +6,15 @@ date:   2017-05-10 23:20:00 +0000
 
 <a href="mailto:{{ site.email }}"> {{ site.email }}</a>
 <br>
-<div class="pgpkey-fingerprint"> {{ site.fingerprint }} </div>
+<div class="pgpkey-fingerprint"> {{ site.fingerprint }}
+  <form style="display: inline;" method="get" action="/img/Alex Nackenoff anackenoff@gmail.com (0xD672C2D6) pub.asc">
+  <button type="submit">Download</button>
+  </form>
+</div>
 <br>
+For instructions on how to use encrypted email, here are instructions for <a href="https://ssd.eff.org/en/module/how-use-pgp-windows">Windows</a> and <a href="https://ssd.eff.org/en/module/how-use-pgp-mac-os-x">Mac OS X</a>
+<br>
+
 
 <!--<object type="text/html" data="/img/publickey.txt" width="100%" height="1600px"> </object>-->
 
@@ -110,5 +117,3 @@ UlBL6dGyhI/Z9l01E6TraOTLl2g7MPvXBsd3TeMynMZbv9x6W0puHgSf1y8TXwN1
 TIf6Zb6ofFqufOFHqflDN/+cHHPvwM8uj1m+YJpgTEk=
 =2YR3
 -----END PGP PUBLIC KEY BLOCK-----</div></pre>
-
-For instructions on how to use encrypted email, here are instructions for <a href="https://ssd.eff.org/en/module/how-use-pgp-windows">Windows</a> and <a href="https://ssd.eff.org/en/module/how-use-pgp-mac-os-x">Mac OS X</a>
