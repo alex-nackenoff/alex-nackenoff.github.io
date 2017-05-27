@@ -233,6 +233,7 @@ img.header-logo {
 }
 
 .header-col-3 {
+    float: right;
     width: -webkit-calc(80% - (#{$spacing-unit} / 2));
     width:         calc(80% - (#{$spacing-unit} / 2));
 
@@ -474,10 +475,16 @@ img.header-logo {
           }
         }
 }
+
 .flickr{
   display: inline-block;
   width: 47%;
   padding: 1%;
   height: auto;
 
+}
+
+.cv-year{
+  display: inline-block;
+  float: right;
 }
