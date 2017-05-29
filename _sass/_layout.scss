@@ -381,6 +381,7 @@ img.header-logo {
 
 .project-wrapper{
   width: 100%;
+  text-align: center;
   display: inline-block;
 
   /*:hover{
@@ -394,6 +395,29 @@ img.header-logo {
   }
 
 }
+
+.imgtest2{
+
+  margin: 0;
+  overflow: hidden;
+
+  :hover{
+    opacity: 0.5;
+  }
+
+  img{
+    width: 100%;
+    height: 150%;
+    margin-bottom: -56.5%;
+    margin-top: -10%;
+    display:block;
+
+  }
+
+}
+
+
+
 .project-img{
   position: relative;
   padding: 1%;
@@ -448,6 +472,47 @@ img.header-logo {
     @include media-query($on-palm) {
       width: 95%;
       }
+
+
+    h2 {
+      position: absolute;
+      top: 40%;
+      left: 10%;
+      width: 80%;
+      text-align: center;
+      z-index: 2;
+      }
+
+      span{
+        color: white;
+        font-size: 75%; /* 30px */
+        font: Helvetica, Sans-Serif;
+        font-weight: bold;
+        display: block;
+        /*letter-spacing: -1px;*/
+        background: rgb(0, 0, 0); /* fallback color */
+        background: rgba(0, 0, 0, 0.7);
+        padding: 1%;
+
+
+        @include media-query($on-palm) {
+          font-size: 140%;
+          }
+        }
+}
+
+.project-img3{
+  position: relative;
+  padding: 1%;
+  width: 47%;
+    display: inline-block;
+
+
+    @include media-query($on-palm) {
+      width: 95%;
+      }
+
+
 
     h2 {
       position: absolute;

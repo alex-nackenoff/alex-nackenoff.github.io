@@ -14,6 +14,9 @@ permalink: /projects/
 
   </div>
 
+
+
+
   <div class="project-img2">
     <h2><a href=" {{ site.baseurl }}/March4Science/"><span>March For Science</span></a></h2>
 
@@ -21,6 +24,12 @@ permalink: /projects/
 
   </div>
 
-  
+  <div class="project-img3">
+    <h2><a href=" {{ site.baseurl }}/Kegerator/"><span>Kegerator Build</span></a></h2>
+
+    <div class="imgtest2"><a href=" {{ site.baseurl }}/Kegerator/"><img src='http://c1.staticflickr.com/5/4248/34547023930_7e15503dba.jpg'></a></div>
+
+  </div>
+
 
 </div>
