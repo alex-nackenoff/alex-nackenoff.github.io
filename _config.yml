@@ -15,7 +15,7 @@ description: This is my website for topics spanning from Neuroscience and Medici
     and interests in technology, homebrewing, music, politics, and culture
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alex-nackenoff.github.io" # the base hostname & protocol for your site
+url: "https://alexnackenoff.com" # the base hostname & protocol for your site
 twitter_username: anackenoff
 github_username:  alex-nackenoff
 linkedin_username: alex-nackenoff
