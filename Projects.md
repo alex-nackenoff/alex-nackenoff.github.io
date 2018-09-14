@@ -10,7 +10,7 @@ permalink: /projects/
 
     <h2><a href=" {{ site.baseurl }}/table/"><span display:none>Edge-Grain Butcher Block Style</span><span display:none>Walnut Table & Cart </span></a></h2>
 
-      <div class="imgtest"><a href=" {{ site.baseurl }}/table/"><img src="http://c1.staticflickr.com/9/8171/28966315502_fcc39892c3_b.jpg"></a></div>
+      <div class="imgtest"><a href=" {{ site.baseurl }}/table/"><img src="https://c1.staticflickr.com/9/8171/28966315502_fcc39892c3_b.jpg"></a></div>
 
   </div>
 
@@ -27,7 +27,7 @@ permalink: /projects/
   <div class="project-img3">
     <h2><a href=" {{ site.baseurl }}/Kegerator/"><span>Kegerator Build</span></a></h2>
 
-    <div class="imgtest2"><a href=" {{ site.baseurl }}/Kegerator/"><img src='http://c1.staticflickr.com/5/4248/34547023930_7e15503dba.jpg'></a></div>
+    <div class="imgtest2"><a href=" {{ site.baseurl }}/Kegerator/"><img src='https://c1.staticflickr.com/5/4248/34547023930_7e15503dba.jpg'></a></div>
 
   </div>
 
