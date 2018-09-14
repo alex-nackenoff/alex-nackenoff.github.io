@@ -4,4 +4,4 @@ title:  "XMPP w/ OTR"
 permalink: /XMPP/
 ---
 
-For instructions on how to use XMPP chat with OTR encryption, here are instructions for Pidgin with <a href="https://securityinabox.org/en/guide/pidgin/windows/"> Windows </a> and Adium for <a href="http://adium.im/"> Mac OS X </a>
+For instructions on how to use XMPP chat with OTR encryption, here are instructions for Pidgin with <a href="https://securityinabox.org/en/guide/pidgin/windows/"> Windows </a> and Adium for <a href="https://adium.im/"> Mac OS X </a>
