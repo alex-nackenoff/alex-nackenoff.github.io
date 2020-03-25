@@ -2,6 +2,7 @@
 layout: page
 title: Posts
 permalink: /posts/
+order_number: 10
 ---
 
 <div class="home">

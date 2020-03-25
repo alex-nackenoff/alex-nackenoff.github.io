@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+order_number: 30
 ---
 
 <div class="project-wrapper">
