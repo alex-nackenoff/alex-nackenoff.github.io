@@ -1,25 +1,17 @@
----
-layout: post
-title:  "Public Key"
-date:   2017-05-10 23:20:00 +0000
----
-
-<a href="mailto:{{ site.email }}"> {{ site.email }}</a>
-<br>
-<div class="pgpkey-fingerprint"> {{ site.fingerprint }}
+I"h<p><a href="mailto:anackenoff@gmail.com"> anackenoff@gmail.com</a>
+<br /></p>
+<div class="pgpkey-fingerprint"> 2BD3 CD93 CB88 47B2 E5C4 E8D9 85BA D36E D672 C2D6
   <form style="display: inline;" method="get" action="/img/Alex Nackenoff anackenoff@gmail.com (0xD672C2D6) pub.asc">
   <button type="submit">Download</button>
   </form>
 </div>
-<br>
+<p><br />
 For instructions on how to use encrypted email, here are instructions for <a href="https://ssd.eff.org/en/module/how-use-pgp-windows">Windows</a> and <a href="https://ssd.eff.org/en/module/how-use-pgp-mac-os-x">Mac OS X</a>
-<br>
+<br /></p>
 
-<br><b>(Edit 7-26-2020)</b>These steps may not be required as Thunderbird is now shipping with PGP packages included
-
+<p><br /><b>(Edit 7-26-2020)</b>These steps may not be required as Thunderbird is now shipping with PGP packages included</p>
 
 <!--<object type="text/html" data="/img/publickey.txt" width="100%" height="1600px"> </object>-->
-
 
 <pre><div class="pgpkey">-----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -119,3 +111,4 @@ UlBL6dGyhI/Z9l01E6TraOTLl2g7MPvXBsd3TeMynMZbv9x6W0puHgSf1y8TXwN1
 TIf6Zb6ofFqufOFHqflDN/+cHHPvwM8uj1m+YJpgTEk=
 =2YR3
 -----END PGP PUBLIC KEY BLOCK-----</div></pre>
+:ET
