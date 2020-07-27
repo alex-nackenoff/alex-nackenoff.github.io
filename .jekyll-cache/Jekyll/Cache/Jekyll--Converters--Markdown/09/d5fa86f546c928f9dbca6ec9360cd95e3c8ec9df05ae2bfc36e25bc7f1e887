@@ -1,4 +1,4 @@
-I"€<p><a target="_blank" href="/img/pld3.jpg">
+I"ç<p><a target="_blank" href="/img/pld3.jpg">
   <img class="thumb" src="/img/pld3.jpg" />
 </a></p>
 
@@ -17,7 +17,6 @@
                     ],
         	 authentication: "anonymous",
         	 domain_placeholder: "alexnackenoff.com",
-        	 websocket_url: "wss://xmpp.alexnackenoff.com:5281/xmpp-websocket/",
         	 allow_registration: false,
            hide_muc_server: true,
         	 jid:"xmpp.alexnackenoff.com",

@@ -23,7 +23,6 @@ permalink: /AAIC20/
                     ],
         	 authentication: "anonymous",
         	 domain_placeholder: "alexnackenoff.com",
-        	 websocket_url: "wss://xmpp.alexnackenoff.com:5281/xmpp-websocket/",
         	 allow_registration: false,
            hide_muc_server: true,
         	 jid:"xmpp.alexnackenoff.com",
