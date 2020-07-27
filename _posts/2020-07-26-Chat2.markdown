@@ -14,7 +14,7 @@ permalink: /AAIC20/
 
 <script>
         converse.initialize({
-           default_domain:"xmpp.alexnackenoff.com",
+           default_domain:"alexnackenoff.com",
         	 auto_login: true,
            allow_logout: false,
            allow_contact_requests: false,
@@ -22,7 +22,7 @@ permalink: /AAIC20/
                         'aaic20@conference.alexnackenoff.com',
                     ],
         	 authentication: "anonymous",
-        	 domain_placeholder: "xmpp.alexnackenoff.com",
+        	 domain_placeholder: "alexnackenoff.com",
         	 websocket_url: "wss://xmpp.alexnackenoff.com:5281/xmpp-websocket/",
         	 allow_registration: false,
            hide_muc_server: true,
