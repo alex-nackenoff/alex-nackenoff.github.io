@@ -1,29 +1,23 @@
----
-layout: post-alt
-title:  "Chat with Me at my Virtual Posters at AAIC20"
-permalink: /AAIC20/
----
+I"<p><a target="_blank" href="/img/pld3.jpg">
+  <img class="thumb" src="/img/pld3.jpg" />
+</a></p>
 
-<a target="_blank" href="/img/pld3.jpg">
-  <img class='thumb' src="/img/pld3.jpg">
-</a>
-
-<a target="_blank" href="/img/clarity.jpg">
-  <img class='thumb' src="/img/clarity.jpg">
-</a>
+<p><a target="_blank" href="/img/clarity.jpg">
+  <img class="thumb" src="/img/clarity.jpg" />
+</a></p>
 
 <script>
         converse.initialize({
-           default_domain:"alexnackenoff.com",
+           default_domain:"xmpp.alexnackenoff.com",
         	 auto_login: true,
            allow_logout: false,
-           allow_contact_requests: true,
+           allow_contact_requests: false,
            allow_non_roster_messaging: true,
            auto_join_private_chats: [
                         'alex@alexnackenoff.com',
            ],
            authentication: "anonymous",
-        	 domain_placeholder: "alexnackenoff.com",
+        	 domain_placeholder: "xmpp.alexnackenoff.com",
         	 websocket_url: "wss://xmpp.alexnackenoff.com:5281/xmpp-websocket/",
         	 allow_registration: false,
            hide_muc_server: false,
@@ -40,3 +34,5 @@ permalink: /AAIC20/
 
         });
 </script>
+
+:ET

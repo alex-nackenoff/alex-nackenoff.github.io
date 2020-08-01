@@ -1,4 +1,4 @@
-I"Û<p><a target="_blank" href="/img/pld3.jpg">
+I"Ï<p><a target="_blank" href="/img/pld3.jpg">
   <img class="thumb" src="/img/pld3.jpg" />
 </a></p>
 
@@ -13,7 +13,7 @@
            allow_logout: false,
            allow_contact_requests: false,
         	 auto_join_rooms: [
-                        'aaic20@conference.alexnackenoff.com',
+                        'alex0@alexnackenoff.com',
                     ],
         	 authentication: "anonymous",
         	 domain_placeholder: "alexnackenoff.com",

@@ -1,16 +1,10 @@
----
-layout: post-alt
-title:  "Chat with Me at my Virtual Posters at AAIC20"
-permalink: /AAIC20/
----
+I"ü<p><a target="_blank" href="/img/pld3.jpg">
+  <img class="thumb" src="/img/pld3.jpg" />
+</a></p>
 
-<a target="_blank" href="/img/pld3.jpg">
-  <img class='thumb' src="/img/pld3.jpg">
-</a>
-
-<a target="_blank" href="/img/clarity.jpg">
-  <img class='thumb' src="/img/clarity.jpg">
-</a>
+<p><a target="_blank" href="/img/clarity.jpg">
+  <img class="thumb" src="/img/clarity.jpg" />
+</a></p>
 
 <script>
         converse.initialize({
@@ -40,3 +34,5 @@ permalink: /AAIC20/
 
         });
 </script>
+
+:ET
