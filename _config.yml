@@ -12,7 +12,7 @@ public-key: Public Key
 email3: alex@alexnackenoff.com
 email2: alex.nackenoff@vanderbilt.edu
 description: This is my website for topics spanning from Neuroscience and Medicine to my hobbies
-    and interests in technology, homebrewing, music, politics, and culture
+    and interests in technology, homebrewing, music, and culture
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alexnackenoff.com" # the base hostname & protocol for your site

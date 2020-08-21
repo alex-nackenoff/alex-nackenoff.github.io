@@ -9,6 +9,14 @@ order_number: 30
 
   <div class="project-img">
 
+    <h2><a href=" {{ site.baseurl }}/kegcart/"><span display:none>Wedding Homebrew Keg Cart</span></a></h2>
+
+    <div class="imgtest25"><a href=" {{ site.baseurl }}/kegcart/"><img src='https://piwigo.alexnackenoff.com/_data/i/upload/2019/10/17/20191017164151-ffef54c6-me.jpg'/></a></div>
+
+  </div>
+
+  <div class="project-img">
+
     <h2><a href=" {{ site.baseurl }}/table/"><span display:none>Edge-Grain Butcher Block Style</span><span display:none>Walnut Table & Cart </span></a></h2>
 
       <div class="imgtest"><a href=" {{ site.baseurl }}/table/"><img src="https://c1.staticflickr.com/9/8171/28966315502_fcc39892c3_b.jpg"></a></div>
@@ -18,7 +26,7 @@ order_number: 30
 
 
 
-  <div class="project-img2">
+  <div class="project-img">
     <h2><a href=" {{ site.baseurl }}/March4Science/"><span>March For Science</span></a></h2>
 
     <div class="imgtest"><a href=" {{ site.baseurl }}/March4Science/"><img src="/img/MarchForScience-real-best.png"></a></div>

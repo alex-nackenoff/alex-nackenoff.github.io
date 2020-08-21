@@ -415,8 +415,25 @@ img.header-logo {
   }
 
 }
+.imgtest25{
 
+  margin: 0;
+  overflow: hidden;
 
+  :hover{
+    opacity: 0.5;
+  }
+
+  img{
+    width: 100%;
+    height: 100%;
+    margin-bottom: -9%;
+    margin-top: 0%;
+    display:block;
+
+  }
+
+}
 
 .project-img{
   position: relative;
@@ -466,6 +483,7 @@ img.header-logo {
   padding: 1%;
   width: 47%;
   height: auto;
+  float: left;
   display: inline-block;
 
 
@@ -505,7 +523,9 @@ img.header-logo {
   position: relative;
   padding: 1%;
   width: 47%;
-    display: inline-block;
+  height: auto;
+  float: left;
+  display: inline-block;
 
 
     @include media-query($on-palm) {
@@ -548,6 +568,14 @@ img.header-logo {
   height: auto;
 
   }
+
+.thumb{
+    display: inline-block;
+    width: 97%;
+    padding: 1%;
+    height: auto;
+
+    }
 
 .cv-year{
   display: inline-block;

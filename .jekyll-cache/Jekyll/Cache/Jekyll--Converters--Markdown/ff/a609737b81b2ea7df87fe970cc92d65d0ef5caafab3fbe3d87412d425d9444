@@ -1,8 +1,16 @@
-I"<div class="home">
+I"Ç<div class="home">
 
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
+    
+      <li>
+        <span class="post-meta">Aug 21, 2020</span>
+
+        <h2>
+          <a class="post-link" href="/kegcart/">Wedding Beer Cart Construction</a>
+        </h2>
+      </li>
     
       <li>
         <span class="post-meta">Mar 25, 2020</span>
